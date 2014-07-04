@@ -107,7 +107,7 @@ resideMenu.closeMenu();
 ##About me
 A student from SCAU China.<br>
 Email: specialcyci#gmail.com
-
+s
 [1]: http://dribbble.com/shots/1116265-Instasave-iPhone-App
 [2]: http://dribbble.com/shots/1114754-Social-Feed-iOS7
 [3]: https://github.com/romaonthego/RESideMenu
